@@ -11,6 +11,7 @@
 		3A6477E22709BA270083306A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A6477E12709BA270083306A /* ContentView.swift */; };
 		3A6477E42709BA320083306A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3A6477E32709BA320083306A /* Assets.xcassets */; };
 		3A6477E72709BA320083306A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3A6477E62709BA320083306A /* Preview Assets.xcassets */; };
+		3A6477EE2709BD610083306A /* git token.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A6477ED2709BD610083306A /* git token.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		3A6477E12709BA270083306A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		3A6477E32709BA320083306A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3A6477E62709BA320083306A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		3A6477ED2709BD610083306A /* git token.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "git token.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 				3A6477E12709BA270083306A /* ContentView.swift */,
 				3A6477E32709BA320083306A /* Assets.xcassets */,
 				3A6477E52709BA320083306A /* Preview Content */,
+				3A6477ED2709BD610083306A /* git token.swift */,
 			);
 			path = udderGitTest;
 			sourceTree = "<group>";
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3A6477EE2709BD610083306A /* git token.swift in Sources */,
 				3A6477E22709BA270083306A /* ContentView.swift in Sources */,
 				3A6477E02709BA270083306A /* udderGitTestApp.swift in Sources */,
 			);
